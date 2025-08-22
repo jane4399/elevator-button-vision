@@ -1,0 +1,3 @@
+[submodule "third_party/ocr-rcnn-v2"]
+	path = third_party/ocr-rcnn-v2
+	url = https://github.com/zhudelong/ocr-rcnn-v2.git
