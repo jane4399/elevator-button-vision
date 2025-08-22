@@ -44,3 +44,4 @@ ElevatorButtonDataset/
 
 # Local env
 *.local
+ocr-rcnn-v2/
