@@ -44,4 +44,5 @@ ElevatorButtonDataset/
 
 # Local env
 *.local
-ocr-rcnn-v2/
+third_party/**/frozen_model/
+**/*.pb
