@@ -46,3 +46,5 @@ ElevatorButtonDataset/
 *.local
 third_party/**/frozen_model/
 **/*.pb
+third_party/**/frozen_model/
+**/*.pb
