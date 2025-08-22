@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+venv-*/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Datasets and large assets (keep repo small)
+ElevatorButtonDataset/
+**/data/**
+**/datasets/**
+**/outputs/**
+**/runs/**
+
+# Pretrained/frozen models
+**/frozen_model/**
+**/frozen/**
+**/*.pb
+**/*.onnx
+**/*.pth
+**/*.pt
+**/*.ckpt*
+
+# Logs and checkpoints
+**/checkpoints/**
+**/logs/**
+**/tensorboard/**
+
+# Videos
+**/*.bag
+**/*.mp4
+**/*.mov
+
+# Local env
+*.local
